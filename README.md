@@ -4,7 +4,7 @@
 
 Requires OBS version 30.2+ for compatibility.
 
-## ✨ Features
+### ✨ Features
 
 - Unique designed icons.
 - Сolor scheme does not strain the eyes.
@@ -15,23 +15,33 @@ Requires OBS version 30.2+ for compatibility.
   - **Yellow** — audio should fall within this range;
   - **Green** — audio is too quiet.
 
-## 💡 Guides
-<details><summary>Installation</summary>
+## 💡 Howto
 
-1. Download the theme version matching your OBS Studio version from [here](https://github.com/frolovlife/midnight-obs-theme/releases).
+### 💾 Installation
+
+1. Download the latest theme version from **[here](https://github.com/frolovlife/midnight-obs-theme/releases/latest)**.
 2. Extract the archive **into** the following location(s):
-    - On *Windows*: `%AppData%\obs-studio\themes\`
-    - On *Linux*: `${HOME}/.config/obs-studio/themes/`
-    - On *MacOS*: `~/Library/Application Support/obs-studio/themes/`
+    - *Windows*: `%AppData%\obs-studio\themes\`
+    - *Windows (portable)*: `OBS_FOLDER\data\obs-studio\themes\`
+    - *Linux*: `${HOME}/.config/obs-studio/themes/`
+    - *MacOS*: `~/Library/Application Support/obs-studio/themes/`
 3. Restart OBS Studio.
-</details>
 
-<details><summary>Uninstallation</summary>
+### 🗑 Uninstallation
 
 1. Stop OBS Studio.
 2. Remove the matching theme files from the following location(s):
-    - On *Windows*: `%AppData%\obs-studio\themes\`
-    - On *Linux*: `${HOME}/.config/obs-studio/themes/`
-    - On *MacOS*: `~/Library/Application Support/obs-studio/themes/`
+    - *Windows*: `%AppData%\obs-studio\themes\`
+    - *Windows (portable)*: `OBS_FOLDER\data\obs-studio\themes\`
+    - *Linux*: `${HOME}/.config/obs-studio/themes/`
+    - *MacOS*: `~/Library/Application Support/obs-studio/themes/`
 3. Start OBS Studio.
-</details>
+
+    ❗️ List of files and folders to be deleted:
+    - `HollowDark\`
+    - `Midnight.obt`
+    - `Midnight_Blue.ovt`
+    - `Midnight_Orange.ovt`
+    - `Midnight_Pink.ovt`
+    - `Midnight_Purple.ovt`
+    - `Midnight_Red.ovt`
