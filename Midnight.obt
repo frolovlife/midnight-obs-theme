@@ -6,7 +6,7 @@
 /******************************************************************************/
 
 @OBSThemeMeta {
-    name: 'Midnight';
+    name: 'Midnight v1.0';
     id: 'com.obsproject.midnight';
     author: 'Alexey Frolov';
     dark: 'true';
