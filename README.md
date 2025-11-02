@@ -26,6 +26,7 @@
     - *Linux*: `${HOME}/.config/obs-studio/themes/`
     - *MacOS*: `~/Library/Application Support/obs-studio/themes/`
 3. Restart OBS Studio.
+4. Open OBS Studio settings and set your current theme to the newly installed theme (Midnight).
 
 
 ## 🗑 Uninstallation
