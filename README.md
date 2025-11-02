@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > Requires OBS version 30.2+ for compatibility.
 
-### ✨ Features
+### 💡 Features
 
 - Unique designed icons.
 - Сolor scheme does not strain the eyes.
@@ -16,9 +16,8 @@
   - **Yellow** — audio should fall within this range;
   - **Green** — audio is too quiet.
 
-## 💡 Howto
 
-### 💾 Installation
+## 💾 Installation
 
 1. Download the latest theme version from **[here](https://github.com/frolovlife/midnight-obs-theme/releases/latest)**.
 2. Extract the archive **into** the following location(s):
@@ -28,7 +27,8 @@
     - *MacOS*: `~/Library/Application Support/obs-studio/themes/`
 3. Restart OBS Studio.
 
-### 🗑 Uninstallation
+
+## 🗑 Uninstallation
 
 1. Stop OBS Studio.
 2. Remove the matching theme files from the following location(s):
@@ -38,11 +38,12 @@
     - *MacOS*: `~/Library/Application Support/obs-studio/themes/`
 3. Start OBS Studio.
 
-    ❗️ List of files and folders to be deleted:
-    - `HollowDark\`
-    - `Midnight.obt`
-    - `Midnight_Blue.ovt`
-    - `Midnight_Orange.ovt`
-    - `Midnight_Pink.ovt`
-    - `Midnight_Purple.ovt`
-    - `Midnight_Red.ovt`
+> [!NOTE]
+> List of files and folders to be deleted:
+>  - `HollowDark\`
+>  - `Midnight.obt`
+>  - `Midnight_Blue.ovt`
+>  - `Midnight_Orange.ovt`
+>  - `Midnight_Pink.ovt`
+>  - `Midnight_Purple.ovt`
+>  - `Midnight_Red.ovt`
