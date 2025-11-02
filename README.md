@@ -4,7 +4,18 @@
 
 Requires OBS version 30.2+ for compatibility.
 
-## 🎓 Guides
+## ✨ Features
+
+- Unique designed icons.
+- Сolor scheme does not strain the eyes.
+- Spacious widgets, for ease of use and visibility.
+- Large controls for easy interaction.
+- Volume Mixer uses colors which more accurately represent the desired audio range in streaming applications:
+  - **Red** — audio is at risk of clipping;
+  - **Yellow** — audio should fall within this range;
+  - **Green** — audio is too quiet.
+
+## 💡 Guides
 <details><summary>Installation</summary>
 
 1. Download the theme version matching your OBS Studio version from [here](https://github.com/frolovlife/midnight-obs-theme/releases).
