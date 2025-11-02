@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 24 24"
+   fill="none"
+   fill-rule="evenodd"
+   clip-rule="evenodd">
+  <style type="text/css">
+     .st-vs {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+     .fl-vs {fill:#EBEBEB;}
+  </style>
+  <rect width="24" height="24"/>
+  <path
+     class="st-vs"
+     d="M4.222 19.778c-4.296,-4.296 -4.296,-11.26 0,-15.556m3.535 12.021c-2.343,-2.343 -2.343,-6.143 0,-8.486m8.486 0c2.343,2.343 2.343,6.143 0,8.486m3.535 -12.021c4.296,4.296 4.296,11.26 0,15.556"/>
+  <circle
+     class="fl-vs st-vs"
+     cx="12" cy="12" r="1"/>
+</svg>
