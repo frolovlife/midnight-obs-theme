@@ -1,5 +1,5 @@
 @OBSThemeMeta {
-    name: 'Midnight Purple';
+    name: 'Purple';
     id: 'com.obsproject.midnight.purple';
     extends: 'com.obsproject.midnight';
     author: 'Alexey Frolov';
