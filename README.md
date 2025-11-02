@@ -2,7 +2,8 @@
 
 **Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. Visual elements have all had their size unified, and have a clearly distinguished color from other elements, providing better visual guidance with simple UI elements.
 
-Requires OBS version 30.2+ for compatibility.
+> [!IMPORTANT]
+> Requires OBS version 30.2+ for compatibility.
 
 ### ✨ Features
 
