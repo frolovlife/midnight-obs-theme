@@ -24,8 +24,7 @@
       *(You can open this directory in Finder with `CMD` + `Shift` + `G`)*
     - **Linux**: `$HOME/.config/obs-studio/themes/`
     - **Portable OBS Studio**: `_OBS_PORTABLE_DIRECTORY_\data\obs-studio\themes\`
-3. Restart OBS Studio.
-4. Open OBS Studio settings and set your current theme to the newly installed theme (Midnight).
+3. Restart OBS Studio, then open OBS Studio settings and set the Midnight theme.
 
 
 ## 🗑 Uninstallation
