@@ -19,22 +19,22 @@ You can star the repository so you don't lose this theme and update it regularly
 
 ## 🖼️ Screenshots
 
-Main window:
+#### Main window
 
 <img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/fullscreen.png" width="100%">
 
-Settings window:
+#### Settings window
 
 <img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/settings.png" width="100%">
 
-List of Sources:
+#### List of Sources
 
 <img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/sources.png" width="100%">
 
-Mixer:
+#### Mixer
 
 <img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/mixer.png" width="100%">
 
-Colors:
+#### Colors
 
 <img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/colors.png" width="100%">
