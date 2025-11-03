@@ -1,4 +1,4 @@
-# :information_source: General info
+# ℹ️ General info
 
 **Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. Visual elements have all had their size unified, and have a clearly distinguished color from other elements, providing better visual guidance with simple UI elements. Based on the original Yami Theme by @Warchamp7.
 
@@ -30,7 +30,7 @@
 ## 🗑 Uninstallation
 
 1. Close OBS Studio.
-2. Remove the matching theme files from the following location(s):
+2. Remove theme files from the following location(s):
     - **Windows**: `%AppData%\obs-studio\themes\`\
       *(You can open this directory by pressing `Win` + `R`)*
     - **MacOS**: `~/Library/Application Support/obs-studio/themes/`\
@@ -39,14 +39,13 @@
     - **Portable OBS Studio**: `_OBS_PORTABLE_DIRECTORY_\data\obs-studio\themes\`
 3. Start OBS Studio.
 
-> [!NOTE]
-> List of files and folders to be deleted:
->  - `HollowDark\`
->  - `Midnight.obt`
->  - `Midnight_Blue.ovt`
->  - `Midnight_Orange.ovt`
->  - `Midnight_Pink.ovt`
->  - `Midnight_Purple.ovt`
->  - `Midnight_Red.ovt`
->  - `Install_Windows.cmd` *(if it's present in the directory)*
->  - `Install_UNIX.sh` *(if it's present in the directory)*
+    List of files and folders to be deleted:
+    - `HollowDark\`
+    - `Midnight.obt`
+    - `Midnight_Blue.ovt`
+    - `Midnight_Orange.ovt`
+    - `Midnight_Pink.ovt`
+    - `Midnight_Purple.ovt`
+    - `Midnight_Red.ovt`
+    - `Install_Windows.cmd` *(if it's present in the directory)*
+    - `Install_UNIX.sh` *(if it's present in the directory)*
