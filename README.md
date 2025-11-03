@@ -1,6 +1,6 @@
 # :information_source: General info
 
-**Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. Visual elements have all had their size unified, and have a clearly distinguished color from other elements, providing better visual guidance with simple UI elements.
+**Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. Visual elements have all had their size unified, and have a clearly distinguished color from other elements, providing better visual guidance with simple UI elements. Based on the original Yami Theme by @Warchamp7.
 
 > [!IMPORTANT]
 > Requires OBS version 30.2+ for compatibility.
@@ -9,34 +9,35 @@
 
 - Unique designed icons.
 - Сolor scheme does not strain the eyes.
+- Five styles of accent colors: blue, orange, pink, purple and red.
 - Spacious widgets, for ease of use and visibility.
 - Large controls for easy interaction.
-- Volume Mixer uses colors which more accurately represent the desired audio range in streaming applications:
-  - **Red** — audio is at risk of clipping;
-  - **Yellow** — audio should fall within this range;
-  - **Green** — audio is too quiet.
 
 
-## 💾 Installation
+## 💾 Manual installation
 
 1. Download the latest theme version from **[here](https://github.com/frolovlife/midnight-obs-theme/releases/latest)**.
-2. Extract the archive **into** the following location(s):
-    - *Windows*: `%AppData%\obs-studio\themes\`
-    - *Windows (portable)*: `OBS_FOLDER\data\obs-studio\themes\`
-    - *Linux*: `${HOME}/.config/obs-studio/themes/`
-    - *MacOS*: `~/Library/Application Support/obs-studio/themes/`
+2. Extract the archive into the following location(s):
+    - **Windows**: `%AppData%\obs-studio\themes\`\
+      *(You can open this directory by pressing `Win` + `R`)*
+    - **MacOS**: `~/Library/Application Support/obs-studio/themes/`\
+      *(You can open this directory in Finder with `CMD` + `Shift` + `G`)*
+    - **Linux**: `$HOME/.config/obs-studio/themes/`
+    - **Portable OBS Studio**: `_OBS_PORTABLE_DIRECTORY_\data\obs-studio\themes\`
 3. Restart OBS Studio.
 4. Open OBS Studio settings and set your current theme to the newly installed theme (Midnight).
 
 
 ## 🗑 Uninstallation
 
-1. Stop OBS Studio.
+1. Close OBS Studio.
 2. Remove the matching theme files from the following location(s):
-    - *Windows*: `%AppData%\obs-studio\themes\`
-    - *Windows (portable)*: `OBS_FOLDER\data\obs-studio\themes\`
-    - *Linux*: `${HOME}/.config/obs-studio/themes/`
-    - *MacOS*: `~/Library/Application Support/obs-studio/themes/`
+    - **Windows**: `%AppData%\obs-studio\themes\`\
+      *(You can open this directory by pressing `Win` + `R`)*
+    - **MacOS**: `~/Library/Application Support/obs-studio/themes/`\
+      *(You can open this directory in Finder with `CMD` + `Shift` + `G`)*
+    - **Linux**: `$HOME/.config/obs-studio/themes/`
+    - **Portable OBS Studio**: `_OBS_PORTABLE_DIRECTORY_\data\obs-studio\themes\`
 3. Start OBS Studio.
 
 > [!NOTE]
@@ -48,3 +49,5 @@
 >  - `Midnight_Pink.ovt`
 >  - `Midnight_Purple.ovt`
 >  - `Midnight_Red.ovt`
+>  - `Install_Windows.cmd` *(if it's present in the directory)*
+>  - `Install_UNIX.sh` *(if it's present in the directory)*
