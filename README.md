@@ -19,20 +19,20 @@
 
 <details>
   <summary>Main window</summary>
-  picture
+  🖼️
 </details>
 
 <details>
   <summary>Settings window</summary>
-  picture
+  🖼️
 </details>
 
 <details>
   <summary>List of Sources</summary>
-  picture
+  🖼️
 </details>
 
 <details>
   <summary>Mixer (closeup)</summary>
-  picture
+  🖼️
 </details>
