@@ -1,6 +1,8 @@
 # Midnight theme for OBS Studio
 
-**Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. Visual elements have all had their size unified, and have a clearly distinguished color from other elements, providing better visual guidance with simple UI elements. Based on the original Yami Theme by @Warchamp7.
+**Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. The theme features medium contrast, and its rounded visual elements are complemented by new outlined icons, providing good visual orientation and reducing eye strain. Based on the original Yami Theme by @Warchamp7.
+
+You can star the repository so you don't lose this theme and update it regularly.
 
 ### [For detailed downloading and installation instructions, please visit the following page ➡️](https://github.com/frolovlife/midnight-obs-theme/wiki/Downloading-and-Installation)
 
