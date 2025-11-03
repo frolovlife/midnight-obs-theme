@@ -23,20 +23,20 @@ You can star the repository so you don't lose this theme and update it regularly
 
 #### Main window
 
-<img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/fullscreen.png" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/fullscreen.png">
 
 #### Settings window
 
-<img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/settings.png" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/settings.png">
 
-#### List of Sources
+#### Sources
 
-<img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/sources.png" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/sources.png">
 
 #### Mixer
 
-<img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/mixer.png" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/mixer.png">
 
 #### Colors
 
-<img src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/colors.png" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/colors.png">
