@@ -1,5 +1,3 @@
-![](https://img.shields.io/github/release/frolovlife/midnight-obs-theme)
-
 # ℹ️ General info
 
 **Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. Visual elements have all had their size unified, and have a clearly distinguished color from other elements, providing better visual guidance with simple UI elements. Based on the original Yami Theme by @Warchamp7.
