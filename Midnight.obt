@@ -2,7 +2,7 @@
 /*   Midnight v1.0 by Alexey Frolov                                           */
 /*   UI icons by Alexey Frolov                                                */
 /*   Site: https://github.com/frolovlife/midnight-obs-theme                   */
-/*   Original Yami Theme by @Warchamp7                                        */
+/*   Based on the original Yami Theme by @Warchamp7.                          */
 /******************************************************************************/
 
 @OBSThemeMeta {
@@ -341,7 +341,7 @@
 }
 
 .icon-cogs {
-    qproperty-icon: url(theme:HollowDark/mixer.svg);
+    qproperty-icon: url(theme:HollowDark/cogs.svg);
 }
 
 .icon-touch {
