@@ -38,7 +38,7 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
 
 ## 💾 Manual Installation
 
-1. Extract the archive.
+1. Extract the archive and go to the `Midnight` directory.
 2. In a separate window, open the OBS Studio theme directory for you operating system:
     - **Windows**: `%AppData%\obs-studio\themes\`\
       *(You can do this by using* `Win` *+* `R`*)*
@@ -85,8 +85,6 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
     - `Midnight_Pink.ovt` — file
     - `Midnight_Purple.ovt` — file
     - `Midnight_Red.ovt` — file
-    - `Install_Windows.cmd` — file *(if it's present)*
-    - `Install_UNIX.sh` — file *(if it's present)*
 
 4. Start OBS Studio, then open OBS Studio settings and set an another theme.
   
