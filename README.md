@@ -92,20 +92,20 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
 
 #### Main window
 
-<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/fullscreen.png">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/fullscreen.png">
 
 #### Settings window
 
-<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/settings.png">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/settings.png">
 
 #### Sources
 
-<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/sources.png">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/sources.png">
 
 #### Mixer
 
-<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/mixer.png">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/mixer.png">
 
 #### Colors
 
-<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/screenshots/colors.png">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/colors.png">
