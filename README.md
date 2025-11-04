@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/repository-open-graph-midnight-obs-theme.png">
 
-**Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. The theme features medium contrast, and its rounded visual elements are complemented by new outlined icons, providing good visual orientation and reducing eye strain. Based on the original Yami Theme by @Warchamp7.
+**Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. The theme features medium contrast, and its rounded visual elements are complemented by new outlined icons, providing good visual orientation and reducing eye strain. Based on the original Yami Theme by [@Warchamp7](https://github.com/Warchamp7).
 
 > [!IMPORTANT]
 > Requires OBS version 30.2+ for compatibility.
@@ -53,7 +53,7 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
 3. Copy `.obt` and `.ovt` files and `HollowDark` directory from extracted archive into the `themes` directory from step 2.
 
     List of files and folders to be copied:
-    - `HollowDark\` — directory
+    - `HollowDark` — directory
     - `Midnight.obt` — file
     - `Midnight_Blue.ovt` — file
     - `Midnight_Orange.ovt` — file
@@ -78,7 +78,7 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
     - **Portable OBS Studio**: `_OBS_PORTABLE_DIRECTORY_\data\obs-studio\themes\`
 
 3. Remove this directory and files from `themes` directory:
-    - `HollowDark\` — directory
+    - `HollowDark` — directory
     - `Midnight.obt` — file
     - `Midnight_Blue.ovt` — file
     - `Midnight_Orange.ovt` — file
