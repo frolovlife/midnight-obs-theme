@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 24 24"
+   fill="none"
+   fill-rule="evenodd"
+   clip-rule="evenodd">
+  <style type="text/css">
+     .st-vs {stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+     .st-white {stroke:white;}
+     .st-blue {stroke:#2196f3;}
+     .fl-white {fill:white;}
+     .fl-blue {fill:#2196f3;}
+  </style>
+  <rect width="24" height="24"/>
+  <circle
+     class="st-vs st-blue fl-blue"
+     cx="12" cy="12" r="11"/>
+  <path
+     class="st-vs st-white"
+     d="M8.5 8.999c0,-1.933 1.567,-3.499 3.5,-3.499 1.933,0 3.5,1.647 3.5,3.499 0,1.85 -1.316,3.237 -3.021,3.466 -0.279,0.037 -0.479,0.294 -0.479,0.573l0 0.962"/>
+  <circle
+     class="fl-white"
+     cx="12" cy="18" r="1.5"/>
+</svg>

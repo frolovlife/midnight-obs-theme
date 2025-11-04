@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 24 24"
+   fill="none"
+   fill-rule="evenodd"
+   clip-rule="evenodd">
+  <style type="text/css">
+     .st-vs {stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+     .st-darkgrey {stroke:#37474f;}
+     .st-yellow {stroke:#ffc107;}
+     .fl-darkgrey {fill:#37474f;}
+     .fl-yellow {fill:#ffc107;}
+  </style>
+  <rect width="24" height="24"/>
+  <path
+     class="st-vs st-yellow fl-yellow"
+     d="M12 1c-0.698,0.001 -1.377,0.368 -1.742,1.021l-8.947 15.906c-0.197,0.31 -0.311,0.677 -0.311,1.071 0,1.105 0.895,2 2,2l18 0c1.105,0 2,-0.895 2,-2 0,-0.394 -0.114,-0.761 -0.311,-1.071l-8.947 -15.906c-0.365,-0.653 -1.044,-1.02 -1.742,-1.021l0 0z"/>
+  <line
+     class="st-vs st-darkgrey"
+     x1="12" y1="6.5" x2="12" y2= "13" />
+  <circle
+     class="fl-darkgrey"
+     cx="12" cy="17" r="1.5"/>
+</svg>
