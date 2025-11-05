@@ -12,7 +12,7 @@ if not exist "%AppData%\obs-studio\themes\" (
 )
 
 if exist "%AppData%\obs-studio\themes\Midnight.obt" (
-	echo Removing a previos version of Midnight theme...
+	echo Removing a previous version of Midnight theme...
 	rd /s /q "%AppData%\obs-studio\themes\HollowDark\"
 	del /q "%AppData%\obs-studio\themes\Midnight*.o?t"
 	echo.
@@ -26,3 +26,4 @@ echo Restart OBS Studio, then open OBS Studio settings and set the Midnight them
 echo.
 echo Press any key to exit...
 pause > nul
+
