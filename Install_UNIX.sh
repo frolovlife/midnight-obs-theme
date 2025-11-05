@@ -2,23 +2,6 @@
 
 CWD="$(dirname "${BASH_SOURCE[0]}")"
 
-function readResponse() {
-	echo -e "\n"
-	case "$1" in
-    	[Yy]*)
-			rm -rf "$THEMEDIR/Midnight"
-			;;
-    	[Nn]*)
-			read -n 1 -r -s -p "Press any key to exit..."
-			exit
-			;;
-    	*)
-			read -n 1 -r -s -p "Invalid input. Overwrite? [Y/N]" response
-			readResponse $response
-			;;
-	esac
-}
-
 unameOut="$(uname -s)"
 case "${unameOut}" in
     Linux*)     THEMEDIR="$HOME/.config/obs-studio/themes";;
@@ -26,29 +9,26 @@ case "${unameOut}" in
     *)          THEMEDIR="$HOME/.config/obs-studio/themes";;
 esac
 
-echo -e "\n"
-read -n 1 -r -s -p "Press any key to begin installation..."
+echo -e "Midnight theme for OBS Studio installation\n"
 
-echo -e "\n\nChecking for theme directory...\n"
 if [ ! -d "$THEMEDIR" ]; then
-	echo -e "Generating theme directory for the first time...\n"
-	mkdir -p "$THEMEDIR"
+  echo -e "Creating theme directory for the first time...\n"
+  mkdir -p "$THEMEDIR"
 fi
 
-if [ -d "$THEMEDIR/Midnight" ]; then
-	read -n 1 -r -s -p "An existing copy of this theme is already installed. Overwrite? [Y/N]" response
-	readResponse $response
+if [ -f "$THEMEDIR/Midnight.obt" ]; then
+  echo -e "Removing a previous version of Midnight theme...\n"
+  rm -rf "$THEMEDIR/HollowDark"
+  rm -f "$THEMEDIR/Midnight.obt"
 fi
 
-echo -e "Preparing to copy files...\n"
-if ! cp -Rf "$CWD/Midnight/*" "$THEMEDIR/"; then
-	echo -e "\n"
-	read -n 1 -r -s -p "An error has occured during a move! Press any key to exit..."
-	exit
+echo -e "Copying theme files...\n"
+if ! cp -Rf "$CWD/HollowDark" "$THEMEDIR/" || ! cp -f "$CWD/Midnight.obt" "$THEMEDIR/"; then
+  echo -e "\n"
+  read -n 1 -r -s -p "An error has occured during installing theme! Press any key to exit..."
+  exit
 fi
 
-echo -e "Installation has completed!"
-echo -e "Restart OBS Studio, then open OBS Studio settings and set the Midnight theme."
-echo -e "\n"
-read -n 1 -r -s -p "Press any key to continue..."
+echo -e "Installation has completed!\n Restart OBS Studio, then open OBS Studio settings and set the Midnight theme.\n"
+read -n 1 -r -s -p "Press any key to exit..."
 exit
