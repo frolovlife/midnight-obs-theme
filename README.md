@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/midnight-obs-theme/repository-open-graph-midnight-obs-theme.png">
 
-**Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. The theme features medium contrast, and its rounded visual elements are complemented by new outlined icons, providing good visual orientation and reducing eye strain. Based on the original Yami Theme by [@Warchamp7](https://github.com/Warchamp7).
+**Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. The theme features low contrast, and its rounded visual elements are complemented by new outlined icons, providing good visual orientation and reducing eye strain. Based on the original Yami Theme by [@Warchamp7](https://github.com/Warchamp7).
 
 > [!IMPORTANT]
 > Requires OBS Studio version 30.2+ for compatibility.
@@ -13,10 +13,10 @@ You can star the repository so you don't lose this theme and update it regularly
 
 - Unique designed icons.
 - Neutral dark gray design without colour shades for better perception of scenes.
-- Contrast scheme does not strain the eyes.
-- Five styles of accent colors: blue, orange, pink, purple and red.
-- Rounded controls for easy interaction.
-- Spacious widgets for easy of use and visibility.
+- Low-contrast scheme does not strain the eyes.
+- Slightly increased spacing between some elements for ease of interaction and visibility.
+- Rounded controls for aesthetics.
+- Five accent color styles: blue, orange, pink, purple and red.
 
 ## 📥 Downloading
 
