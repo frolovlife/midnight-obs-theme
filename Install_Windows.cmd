@@ -26,4 +26,3 @@ echo Restart OBS Studio, then open OBS Studio settings and set the Midnight them
 echo.
 echo Press any key to exit...
 pause > nul
-
