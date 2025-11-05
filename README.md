@@ -5,7 +5,7 @@
 **Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. The theme features medium contrast, and its rounded visual elements are complemented by new outlined icons, providing good visual orientation and reducing eye strain. Based on the original Yami Theme by [@Warchamp7](https://github.com/Warchamp7).
 
 > [!IMPORTANT]
-> Requires OBS version 30.2+ for compatibility.
+> Requires OBS Studio version 30.2+ for compatibility.
 
 You can star the repository so you don't lose this theme and update it regularly.
 
