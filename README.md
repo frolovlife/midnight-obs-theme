@@ -89,7 +89,7 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
 
 4. Start OBS Studio, then open OBS Studio settings and set an another theme.
   
-## 🖼️ Screenshots
+## 🌃 Screenshots
 
 #### Main window
 
