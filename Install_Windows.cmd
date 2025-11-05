@@ -8,6 +8,17 @@ echo.
 if exist "%AppData%\obs-studio\themes\" (
 	echo Theme directory exists.
 	echo.
+
+	if exist "%AppData%\obs-studio\themes\Midnight.obt" (
+		echo Previos version of Midnight theme exists.
+		echo Deleting previos version...
+		rd /s /q "%AppData%\obs-studio\themes\HollowDark\"
+		del /q "%AppData%\obs-studio\themes\Midnight*.o?t"
+		echo.
+	) else (
+		rem hello world
+	)
+
 	echo Copying theme files...
 	xcopy /e /i /f /y "%cd%\Midnight\*" "%AppData%\obs-studio\themes\"
 	echo.
