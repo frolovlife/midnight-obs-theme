@@ -12,10 +12,11 @@ You can star the repository so you don't lose this theme and update it regularly
 ## 💡 Features
 
 - Unique designed icons.
-- Сolor scheme does not strain the eyes.
+- Neutral dark gray design without colour shades for better perception of scenes.
+- Contrast scheme does not strain the eyes.
 - Five styles of accent colors: blue, orange, pink, purple and red.
-- Large, rounded, controls for easy interaction.
-- Spacious widgets, for ease of use and visibility.
+- Rounded controls for easy interaction.
+- Spacious widgets for easy of use and visibility.
 
 ## 📥 Downloading
 
