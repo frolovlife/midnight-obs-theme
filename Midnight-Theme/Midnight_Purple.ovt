@@ -1,0 +1,16 @@
+@OBSThemeMeta {
+    name: 'Purple';
+    id: 'com.obsproject.midnight.purple';
+    extends: 'com.obsproject.midnight';
+    author: 'Alexey Frolov';
+    dark: 'true';
+}
+
+@OBSThemeVars {
+    /* OBS Color Palette */
+    --primary: var(--purple3);
+    --primary_light: var(--purple2);
+    --primary_lighter: var(--purple1);
+    --primary_dark: var(--purple4);
+    --primary_darker: var(--purple5);
+}

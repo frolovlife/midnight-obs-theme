@@ -1,0 +1,16 @@
+@OBSThemeMeta {
+    name: 'Blue';
+    id: 'com.obsproject.midnight.blue';
+    extends: 'com.obsproject.midnight';
+    author: 'Alexey Frolov';
+    dark: 'true';
+}
+
+@OBSThemeVars {
+    /* OBS Color Palette */
+    --primary: var(--blue3);
+    --primary_light: var(--blue2);
+    --primary_lighter: var(--blue1);
+    --primary_dark: var(--blue4);
+    --primary_darker: var(--blue5);
+}
