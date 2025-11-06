@@ -110,3 +110,7 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
 #### Colors
 
 <img width="100%" src="https://raw.githubusercontent.com/frolovlife/midnight-obs-theme/refs/heads/main/screenshots/colors.png">
+
+---
+
+*Midnight theme is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the [OBS Project](https://obsproject.com/). All product, company names and logos are trademarks™ or registered® trademarks of their respective owners.*
