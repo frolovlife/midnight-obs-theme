@@ -39,7 +39,7 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
 
 ## 💾 Manual Installation
 
-1. Extract the archive and go to the `Midnight` directory.
+1. Extract the archive and go to the `Midnight-Theme` directory.
 2. In a separate window, open the OBS Studio theme directory for you operating system:
     - **Windows**: `%AppData%\obs-studio\themes\`\
       *(You can do this by using* `Win` *+* `R`*)*
@@ -51,10 +51,10 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
 
     - **Portable OBS Studio**: `_OBS_PORTABLE_DIRECTORY_\data\obs-studio\themes\`
 
-3. Copy `.obt` and `.ovt` files and `HollowDark` directory from extracted archive into the `themes` directory from step 2.
+3. Copy `.obt` and `.ovt` files and `Midnight` directory from extracted archive into the `themes` directory from step 2.
 
     List of files and folders to be copied:
-    - `HollowDark` — directory
+    - `Midnight` — directory
     - `Midnight.obt` — file
     - `Midnight_Blue.ovt` — file
     - `Midnight_Orange.ovt` — file
@@ -79,7 +79,7 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
     - **Portable OBS Studio**: `_OBS_PORTABLE_DIRECTORY_\data\obs-studio\themes\`
 
 3. Remove this directory and files from `themes` directory:
-    - `HollowDark` — directory
+    - `Midnight` — directory
     - `Midnight.obt` — file
     - `Midnight_Blue.ovt` — file
     - `Midnight_Orange.ovt` — file
