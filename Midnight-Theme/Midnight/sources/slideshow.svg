@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 24 24"
+   fill="none"
+   fill-rule="evenodd"
+   clip-rule="evenodd">
+  <style type="text/css">
+     .st-vs {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+  </style>
+  <rect width="24" height="24"/>
+  <path
+     class="st-vs"
+     d="M23 8l0 11c0,1.656 -1.345,3 -3,3l-13 0"/>
+  <path
+     class="st-vs"
+     d="M4 2l12 0c1.656,0 3,1.345 3,3l0 10c0,1.656 -1.344,3 -3,3l-12 0c-1.656,0 -3,-1.344 -3,-3l0 -10c0,-1.657 1.343,-3 3,-3z"/>
+  <circle
+     class="st-vs"
+     cx="7" cy="6.5" r="1"/>
+  <path
+     class="st-vs"
+     d="M1.5 14.5l2.94 -2.94c0.584,-0.584 1.537,-0.584 2.121,0l1.94 1.94m-1 1l5.939 -5.94c0.584,-0.584 1.537,-0.584 2.121,0l2.94 2.94"/>
+</svg>

@@ -18,12 +18,12 @@ fi
 
 if [ -f "$THEMEDIR/Midnight.obt" ]; then
   echo -e "Removing a previous version of Midnight theme...\n"
-  rm -rf "$THEMEDIR/HollowDark"
-  rm -f "$THEMEDIR/Midnight.obt"
+  rm -rf "$THEMEDIR/Midnight"
+  rm -f "$THEMEDIR/Midnight*.o?t"
 fi
 
 echo -e "Copying theme files...\n"
-if ! cp -Rf "$CWD/HollowDark" "$THEMEDIR/" || ! cp -f "$CWD/Midnight.obt" "$THEMEDIR/"; then
+if ! cp -Rf "$CWD/Midnight-Theme/*" "$THEMEDIR/"; then
   echo -e "\n"
   read -n 1 -r -s -p "An error has occured during installing theme! Press any key to exit..."
   exit

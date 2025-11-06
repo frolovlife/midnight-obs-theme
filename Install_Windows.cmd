@@ -13,17 +13,16 @@ if not exist "%AppData%\obs-studio\themes\" (
 
 if exist "%AppData%\obs-studio\themes\Midnight.obt" (
 	echo Removing a previous version of Midnight theme...
-	rd /s /q "%AppData%\obs-studio\themes\HollowDark\"
+	rd /s /q "%AppData%\obs-studio\themes\Midnight\"
 	del /q "%AppData%\obs-studio\themes\Midnight*.o?t"
 	echo.
 )
 
 echo Copying theme files...
-xcopy /e /i /q /y "%cd%\Midnight\*" "%AppData%\obs-studio\themes\"
+xcopy /e /i /q /y "%cd%\Midnight-Theme\*" "%AppData%\obs-studio\themes\"
 echo.
 echo Installation has completed!
 echo Restart OBS Studio, then open OBS Studio settings and set the Midnight theme.
 echo.
 echo Press any key to exit...
 pause > nul
-

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 16 16"
+   fill="none"
+   fill-rule="evenodd"
+   clip-rule="evenodd">
+  <style type="text/css">
+     .st-vs {stroke:#EBEBEB;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;}
+  </style>
+  <circle
+     class="st-vs"
+     cx="8" cy="8" r="6.5"/>
+</svg>
