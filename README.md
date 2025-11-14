@@ -24,7 +24,7 @@ To begin installing Midnight theme, first download `.zip` archive with theme pac
 
 ## 💫 Automatic Installation (recommended)
 
-> [!IMPORTANT]
+> [!WARNING]
 > For portable OBS Studio, only manual installation is available. For details, see the **[Manual Installation](#-manual-installation)** section.
 
 ### &nbsp; Windows
