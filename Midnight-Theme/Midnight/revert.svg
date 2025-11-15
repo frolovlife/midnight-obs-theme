@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
+	<style type="text/css">
+		.str {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	</style>
+	<rect width="24" height="24"/>
+	<path class="str" d="M4 6l10 0c3.866,0 7,3.134 7,7 0,3.866 -3.134,7 -7,7l-9 0m2 -10l-4 -4 4 -4"/>
+</svg>
