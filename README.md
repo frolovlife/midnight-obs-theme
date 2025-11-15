@@ -20,12 +20,12 @@ You can star the repository so you don't lose this theme and update it regularly
 
 ## 📥 Downloading
 
-To begin installing Midnight theme, first download `.zip` archive with theme pack from **[Latest release](https://github.com/frolovlife/midnight-obs-theme/releases/latest)**.
+To begin installing Midnight theme, first download `.zip` archive with theme pack from [Latest release](https://github.com/frolovlife/midnight-obs-theme/releases/latest).
 
 ## 💫 Automatic Installation (recommended)
 
 > [!WARNING]
-> For portable OBS Studio, only manual installation is available. For details, see the **[Manual Installation](#-manual-installation)** section.
+> For portable OBS Studio, only manual installation is available. For details, see the [Manual Installation](#-manual-installation) section.
 
 ### &nbsp; Windows
 
