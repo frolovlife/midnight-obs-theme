@@ -11,7 +11,7 @@ You can star the repository so you don't lose this theme and update it regularly
 
 ## 💡 Features
 
-- Unique designed icons.
+- Unique handcrafted designed icons.
 - Neutral dark gray design without color shades for better perception of scenes.
 - Low-contrast scheme does not strain the eyes.
 - Slightly increased spacing between some elements for ease of interaction and visibility.
