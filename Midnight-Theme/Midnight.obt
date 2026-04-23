@@ -1892,7 +1892,7 @@ VolumeControl #volLabel {
 
 VolumeControl.volume-inactive,
 VolumeControl.volume-inactive VolumeMeter {
-    background: var(--grey7);
+    background: var(--black3);
 }
 
 VolumeControl.volume-hidden .mixer-name,
@@ -1902,34 +1902,34 @@ VolumeControl.volume-inactive .mixer-name {
 
 VolumeControl .mixer-category {
     font-weight: bold;
-    background: var(--primary_darkest);
-    color: var(--primary_lighter);
+    background: var(--green5);
+    color: var(--green2);
     font-size: var(--font_small);
 }
 
 VolumeControl.volume-pinned .mixer-category {
-    background: var(--blue5);
+    background: var(--blue2);
     color: var(--text_light);
 }
 
 VolumeControl.volume-hidden .mixer-category {
-    background: var(--purple6);
-    color: var(--purple1);
+    background: var(--blue6);
+    color: var(--blue1);
 }
 
 VolumeControl.volume-unassigned .mixer-category {
-    background: var(--yellow6);
-    color: var(--yellow1);
+    background: var(--orange6);
+    color: var(--orange2);
 }
 
 VolumeControl.volume-inactive .mixer-category {
-    background: var(--grey8);
+    background: var(--grey7);
     color: var(--text_muted);
 }
 
 VolumeControl.volume-preview .mixer-category {
-    background: var(--green6);
-    color: var(--green1);
+    background: var(--purple5);
+    color: var(--purple1);
 }
 
 #stackedMixerArea VolumeControl.volume-hidden QSlider::groove,
@@ -2812,10 +2812,4 @@ AlignmentSelector::indicator:checked:disabled {
 
 OBSMissingFiles {
     qproperty-warningIcon: url(theme:Midnight/alert.svg);
-}
-
-/* Main Buttons */
-
-QPushButton#exitButton {
-    qproperty-icon: url(theme:Midnight/exit.svg);
 }
