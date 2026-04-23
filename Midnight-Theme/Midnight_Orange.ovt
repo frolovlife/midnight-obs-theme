@@ -1,0 +1,17 @@
+@OBSThemeMeta {
+    name: 'Orange';
+    id: 'com.obsproject.midnight.orange';
+    extends: 'com.obsproject.midnight';
+    author: 'Alexey Frolov';
+    dark: 'true';
+}
+
+@OBSThemeVars {
+    /* OBS Color Palette */
+    --primary: var(--orange3);
+    --primary_light: var(--orange2);
+    --primary_lighter: var(--orange1);
+    --primary_dark: var(--orange4);
+    --primary_darker: var(--orange5);
+    --primary_darkest: var(--orange6);
+}

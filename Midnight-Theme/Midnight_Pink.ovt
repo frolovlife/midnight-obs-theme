@@ -1,0 +1,17 @@
+@OBSThemeMeta {
+    name: 'Pink';
+    id: 'com.obsproject.midnight.pink';
+    extends: 'com.obsproject.midnight';
+    author: 'Alexey Frolov';
+    dark: 'true';
+}
+
+@OBSThemeVars {
+    /* OBS Color Palette */
+    --primary: var(--pink3);
+    --primary_light: var(--pink2);
+    --primary_lighter: var(--pink1);
+    --primary_dark: var(--pink4);
+    --primary_darker: var(--pink5);
+    --primary_darkest: var(--pink6);
+}
