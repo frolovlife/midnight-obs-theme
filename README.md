@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/projects/midnight-obs-theme/social-preview_midnight-obs-theme.png">
 
+*<p align="right"><a href="https://github.com/frolovlife/midnight-obs-theme/wiki">Читать на русском</p>*
+
 **Midnight** is a minimalistic dark theme with a focus on being clean and unified in how it looks. The theme features low contrast, and its rounded visual elements are complemented by new outlined icons, providing good visual orientation and reducing eye strain. Based on the original Yami Theme by [@Warchamp7](https://github.com/Warchamp7).
 
 > [!IMPORTANT]
