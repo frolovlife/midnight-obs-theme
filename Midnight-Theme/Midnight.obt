@@ -1,12 +1,12 @@
 /******************************************************************************/
-/*   Midnight v1.1 by Alexey Frolov                                           */
+/*   Midnight v1.1.2 by Alexey Frolov                                         */
 /*   UI icons by Alexey Frolov                                                */
 /*   Site: https://github.com/frolovlife                                      */
 /*   Based on the original Yami Theme by @Warchamp7.                          */
 /******************************************************************************/
 
 @OBSThemeMeta {
-    name: 'Midnight v1.1';
+    name: 'Midnight v1.1.2';
     id: 'com.obsproject.midnight';
     author: 'Alexey Frolov';
     dark: 'true';
@@ -28,19 +28,19 @@
     --orange5: #8C3900;
     --orange6: #643203;
 
-    --yellow1: #EABC48;
-    --yellow2: #E5AF24;
-    --yellow3: #B88A16;
-    --yellow4: #926E11;
-    --yellow5: #6E520D;
-    --yellow6: #493709;
+    --yellow1: #FFCE4F;
+    --yellow2: #FFC125;
+    --yellow3: #E2A200;
+    --yellow4: #B38100;
+    --yellow5: #875F00;
+    --yellow6: #5A4000;
 
-    --green1: #59D966;
-    --green2: #37D247;
-    --green3: #25A231;
-    --green4: #1E8528;
-    --green5: #17641E;
-    --green6: #0F4313;
+    --green1: #30DD65;
+    --green2: #1fCC54;
+    --green3: #01A835;
+    --green4: #018A2b;
+    --green5: #016821;
+    --green6: #014616;
 
     --teal1: #27B5F2;
     --teal2: #049EE1;
@@ -103,7 +103,7 @@
     --primary_darker: var(--grey8);
     --primary_darkest: var(--black1);
 
-    --warning: #FFE030; /* var(--yellow3) */
+    --warning: #FFE030; /* var(--yellow4) */
     --danger: #FF4030; /* var(--red3) */
 
     --text: var(--white1);
@@ -706,7 +706,7 @@ QMenu {
 }
 
 QMenu {
-    border: 1px solid var(--border_color);
+    border: 1px solid transparent;			/* var(--border_color) */
 }
 
 QListWidget::item,
@@ -776,14 +776,14 @@ QListWidget::item:focus,
 QMenu::item:selected:focus,
 QListView::item:selected:focus,
 QListWidget::item:selected:focus {
-    border: 1px solid var(--border_highlight);
+    border: 1px solid transparent;			/* var(--border_highlight) */
 }
 
 QMenu::item:selected:hover,
 QListView::item:selected:hover,
 QListWidget::item:selected:hover {
     background: var(--primary_light);
-    border: 1px solid var(--primary_lighter);
+    border: 1px solid transparent;			/* var(--primary_lighter) */
     color: var(--text);
 }
 
@@ -806,7 +806,7 @@ QListWidget QLineEdit {
 
 QListView QLineEdit:focus,
 QListWidget QLineEdit:focus {
-    border: 1px solid var(--grey4);
+    border: 1px solid transparent;			/* var(--grey4) */
 }
 
 /* Settings QList */
@@ -1701,11 +1701,13 @@ QSlider::handle:disabled {
 .btn-mute.mute-unassigned {
     background: var(--button_bg);
     qproperty-icon: url(theme:Midnight/unassigned.svg);
+    color: #F4C826;
 }
 
 .btn-mute.mute-unassigned.hover,
 .btn-mute.mute-unassigned:focus {
     border-color: transparent;
+    color: #F4C826;
 }
 
 /* Monitor Button */
@@ -1728,7 +1730,7 @@ QSlider::handle:disabled {
     background: var(--button_bg);
     border-color: transparent;
     qproperty-icon: url(theme:Midnight/headphones.svg);
-    color: var(--green2);
+    color: #00B838;
 }
 
 .btn-monitor.checked:focus,
@@ -1764,7 +1766,7 @@ VolumeMeter {
     font-size: 7.5pt;
     
     qproperty-backgroundNominalColor: #134A24;
-    qproperty-backgroundWarningColor: #5F5621;
+    qproperty-backgroundWarningColor: #665D24;
     qproperty-backgroundErrorColor: #762320;
     qproperty-foregroundNominalColor: #00B838;
     qproperty-foregroundWarningColor: #FFE030;
@@ -1773,9 +1775,9 @@ VolumeMeter {
     qproperty-majorTickColor: var(--white5);
     qproperty-minorTickColor: var(--teal2);
 
-    qproperty-backgroundNominalColorDisabled: #656565;
-    qproperty-backgroundWarningColorDisabled: #797979;
-    qproperty-backgroundErrorColorDisabled: #4B4B4B;
+    qproperty-backgroundNominalColorDisabled: #525252;
+    qproperty-backgroundWarningColorDisabled: #717171;
+    qproperty-backgroundErrorColorDisabled: #3D3D3D;
     qproperty-foregroundNominalColorDisabled: #9A9A9A;
     qproperty-foregroundWarningColorDisabled: #E0E0E0;
     qproperty-foregroundErrorColorDisabled: #727272;
@@ -1810,7 +1812,7 @@ VolumeControl #volLabel {
 
 /* Horizontal Mixer */
 #hVolumeWidgets VolumeControl {
-    padding: 0px 0px;
+    padding: var(--padding_base) var(--padding_base) var(--padding_xlarge);
     border-bottom: 1px solid var(--border_color);
     margin-bottom: 0px;
 }
@@ -1822,11 +1824,12 @@ VolumeControl #volLabel {
 }
 
 #hVolumeWidgets VolumeName {
-    padding-right: var(--padding_large);
+    padding-right: var(--padding_menu);
+    border-radius: var(--border_radius);
 }
 
 #hVolumeWidgets VolumeName QLabel {
-    margin: 0 var(--padding_large);
+    margin: 0 var(--padding_xlarge);
 }
 
 #hVolumeWidgets #volLabel {
@@ -1857,12 +1860,14 @@ VolumeControl #volLabel {
 
 /* Vertical Mixer */
 #vVolumeWidgets VolumeControl {
-    padding: 0px 0px var(--padding_container);
+    padding: var(--padding_large) var(--padding_large) var(--padding_xlarge);
     border-right: 1px solid var(--border_color);
 }
 
 #vVolumeWidgets .mixer-category {
-    border-bottom: 1px solid var(--border_color);
+    margin: var(--padding_large);
+    padding: var(--padding_small) var(--padding_xlarge);
+    border-radius: var(--border_radius);
 }
 
 #vMixerScrollArea VolumeControl QSlider {
@@ -1903,8 +1908,8 @@ VolumeControl.volume-inactive .mixer-name {
 VolumeControl .mixer-category {
     font-weight: bold;
     background: var(--green5);
-    color: var(--green2);
-    font-size: var(--font_small);
+    color: var(--green1);
+    font-size: 7.5pt;		/* var(--font_small) */
 }
 
 VolumeControl.volume-pinned .mixer-category {
@@ -1918,8 +1923,8 @@ VolumeControl.volume-hidden .mixer-category {
 }
 
 VolumeControl.volume-unassigned .mixer-category {
-    background: var(--orange6);
-    color: var(--orange2);
+    background: var(--yellow4);
+    color: var(--yellow1);
 }
 
 VolumeControl.volume-inactive .mixer-category {
@@ -2255,9 +2260,10 @@ SceneTree {
 }
 
 .slider-tbar::handle:horizontal {
-    width: 12px;
-    height: 24px;
-    margin: -24px 0px;
+    width: 14px;
+    height: 14px;
+    margin: -6px 0px;
+    border-radius: 8.4px;
 }
 
 /* YouTube Integration */
