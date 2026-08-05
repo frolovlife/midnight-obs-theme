@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
-	<style type="text/css">
-		.str {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
-		.fil {fill:#EBEBEB;}
-	</style>
-	<rect width="24" height="24"/>
-	<path class="fil str" d="M12 11c0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1zm8 0c0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1zm-16 0c0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1z"/>
-</svg>
