@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
+	<style type="text/css">
+		.str {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+		.fil {fill:#EBEBEB;}
+	</style>
+	<rect width="24" height="24"/>
+	<circle class="fil str" cx="12" cy="2.5" r="1.5"/>
+	<path class="fil str" d="M13.928 15.964c-0.383,-1.036 -0.956,-2.18 -1.928,-2.18 -0.972,0 -1.545,1.143 -1.928,2.18 0.383,-1.036 0.802,-3.676 0.802,-6.786 0.068,-1.371 -0.939,-2.149 -2.43,-2.458 1.158,0.232 2.381,0.28 3.556,0.28 1.175,0 2.398,-0.048 3.557,-0.28 -1.491,0.309 -2.498,1.087 -2.43,2.458 0,3.11 0.419,5.75 0.802,6.786l-0.001 0z"/>
+	<path class="str" d="M16.528 23l-2.6 -7.036m-3.856 0l-2.6 7.036m8.084 -16.28l5.433 -1.085m-17.978 0l5.433 1.085"/>
+</svg>

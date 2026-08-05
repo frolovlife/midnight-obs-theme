@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
+	<style type="text/css">
+		.str {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	</style>
+	<rect width="24" height="24"/>
+	<line class="str" x1="20.5" y1="6" x2="1.5" y2= "6" />
+	<path class="str" d="M4 18c-1.656,0 -3,-1.344 -3,-3l0 -11c0,-1.657 1.344,-3 3,-3l14 0c1.657,0 3,1.343 3,3l0 4.022"/>
+	<path class="str" d="M18 15.086c1.333,1.333 1.333,3.495 0,4.829m2.721 -7.914c3.037,3.036 3.037,7.961 0,11m-11.723 -3c-0.55,0 -1,-0.451 -1,-1l0 -3c0,-0.55 0.45,-1 1,-1l1.667 0 3.334 -3 0 11 -3.334 -3 -1.667 0 0 0z"/>
+</svg>

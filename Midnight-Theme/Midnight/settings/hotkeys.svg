@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
+	<style type="text/css">
+		.str {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	</style>
+	<rect width="24" height="24"/>
+	<rect class="str" x="1" y="1.25" width="9" height="9" rx="2" ry="2"/>
+	<rect class="str" x="14" y="1.25" width="9" height="9" rx="2" ry="2"/>
+	<rect class="str" x="7.5" y="13.75" width="9" height="9" rx="2" ry="2"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
+	<style type="text/css">
+		.str {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	</style>
+	<rect width="24" height="24"/>
+	<path class="str" d="M12 1c-3.015,2.373 -5,6.414 -5,11 0,4.586 1.985,8.627 5,11 3.015,-2.373 5,-6.414 5,-11 0,-4.586 -1.985,-8.627 -5,-11zm0 0c6.075,0 11,4.925 11,11 0,6.075 -4.925,11 -11,11 -6.075,0 -11,-4.925 -11,-11 0,-6.075 4.925,-11 11,-11zm-10 7l20 0m-20 8l20 0"/>
+</svg>
