@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
+	<style type="text/css">
+		.str {stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+		.str-wht {stroke:white;}
+		.str-blu {stroke:#2196F3;}
+		.fil-wht {fill:white;}
+		.fil-blu {fill:#2196F3;}
+	</style>
+	<rect width="24" height="24"/>
+	<circle class="str str-blu fil-blu" cx="12" cy="12" r="11"/>
+	<line class="str str-wht" x1="12" y1="10.5" x2="12" y2= "18" />
+	<circle class="fil-wht" cx="12" cy="6.5" r="1.5"/>
+</svg>

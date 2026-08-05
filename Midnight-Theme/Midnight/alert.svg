@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
+	<style type="text/css">
+		.str {stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+		.str-yel {stroke:#F4C826;}
+		.fil-yel {fill:#F4C826;}
+	</style>
+	<rect width="24" height="24"/>
+	<path class="str str-yel" d="M12 2c-0.698,0 -1.377,0.368 -1.742,1.02l-8.947 15.907c-0.197,0.31 -0.311,0.677 -0.311,1.071 0,1.1 0.895,2 2,2l18 0c1.1,0 2,-0.895 2,-2 0,-0.394 -0.114,-0.761 -0.311,-1.071l-8.947 -15.9c-0.365,-0.654 -1.044,-1.021 -1.742,-1.021l0 0 0 -0.006z"/>
+	<line class="str str-yel" x1="12" y1="7.5" x2="12" y2= "14" />
+	<circle class="fil-yel" cx="12" cy="18" r="1.5"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26" style="fill:none;fill-rule:evenodd;clip-rule:evenodd">
+	<style type="text/css">
+		.fil {fill:#1B1B1B;}
+		.str {stroke:#EBEBEB;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	</style>
+	<rect width="26" height="26"/>
+	<circle class="fil" cx="13" cy="13" r="13"/>
+	<circle class="str" cx="13" cy="13" r="11"/>
+	<path class="str" d="M13 13c-3.038,0 -5.5,-2.463 -5.5,-5.5 0,-3.038 2.462,-5.5 5.5,-5.5m0 11c1.519,2.63 0.618,5.994 -2.013,7.513 -2.631,1.518 -5.994,0.617 -7.513,-2.013m9.526 -5.5c1.519,-2.631 4.883,-3.532 7.513,-2.013 2.63,1.518 3.532,4.882 2.013,7.512"/>
+</svg>
